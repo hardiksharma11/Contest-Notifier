@@ -1,4 +1,4 @@
-# `How to use this repo to create a Chrome Extension : Contest Notifier`
+## `How to use this repo to create a Chrome Extension : Contest Notifier`
 
 - Clone this repository `https://github.com/hardik-pratap-singh/Contest-Notifier.git`
 - Run `npm install` to install necessary node modules
@@ -9,7 +9,7 @@
 - Now your extension is loaded successfully ! 
 - Now you can use the Extension : Contest Notifier from the Extensions block of the chrome pallette. 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
