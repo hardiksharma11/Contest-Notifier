@@ -1,4 +1,3 @@
-import Hardick from "./components/Hardick";
 import Home from "./components/Home";
 
 function App() {
