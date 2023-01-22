@@ -9,6 +9,8 @@
 - Now your extension is loaded successfully ! 
 - Now you can use the Extension : Contest Notifier from the Extensions block of the chrome pallette. 
 
+Note : If you face any problem, make sure you are logged in here `https://clist.by/login/`
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
