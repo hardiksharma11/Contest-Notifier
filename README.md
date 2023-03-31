@@ -1,6 +1,6 @@
 ## `How to use this repo to create a Chrome Extension : Contest Notifier`
 
-- Clone this repository `https://github.com/hardik-pratap-singh/Contest-Notifier.git`
+- Clone this repository `git@github.com:hardiksharma11/Contest-Notifier.git`
 - Run `npm install` to install necessary node modules
 - Run `npm run build` to run the react project in production mode 
 - Go to Google Chrome's Customize Panel and select Extensions present inside More Tools option
